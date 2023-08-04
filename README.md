@@ -1,4 +1,4 @@
-# Analysis-Design-of-Algorithm-using-python
+# Analysis-and-Design-of-Algorithm-using-python
 This repository contains programs in the python programming language related to various algorithms.
 
 <h1>Algorithm</h1>
