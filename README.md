@@ -27,3 +27,22 @@ This repository contains programs in the python programming language related to 
 <li>Best case</li>
 <li>Worst case</li>
 <li>Average case</li></ol>
+
+---
+
+# About Python Programming
+--> Python is a high-level, general-purpose, and very popular programming language.<br><br>
+--> Python programming language (latest Python 3) is being used in web development, Machine Learning applications, along with all cutting-edge technology in Software Industry.<br><br>
+--> Python is available across widely used platforms like Windows, Linux, and macOS.<br><br>
+--> The biggest strength of Python is huge collection of standard library .<br>
+
+---
+
+
+# Mode of Execution used <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="python language" width="40" height="40"> 
+
+--> Visit the official website of python:  <a href="https://www.python.org/downloads/"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="python language" width="40" height="40"> </a> <br><br>
+--> Download according to the platform that will be used . <br><br>
+--> Python programs are written in editors and saved as the file with the .py extension which can be executed further. <br>
+<br>
+--> We can directly run this file on command prompt as well by giving the file name and .py extention.
